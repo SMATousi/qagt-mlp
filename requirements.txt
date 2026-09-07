@@ -1,0 +1,12 @@
+# Verified working set (Python 3.10.21, single NVIDIA RTX 3090, CUDA 13.0).
+# qiskit is pinned: the DAG traversal in lightcone.py depends on the 0.24.x
+# DAGCircuit API, and qiskit 1.x moved it.
+qiskit==0.24.1
+qiskit-aer==0.12.1
+torch==2.13.0
+torch-geometric==2.8.0.post1
+numpy==1.23.5
+pandas==1.5.3
+scikit-learn==1.7.2
+matplotlib==3.10.9
+scipy==1.15.3

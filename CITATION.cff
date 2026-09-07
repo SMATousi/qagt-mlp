@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "QAGT-MLP: an attention-based graph transformer for quantum error mitigation"
+authors:
+  - family-names: Tousi
+    given-names: Mohamad Ali
+    affiliation: "ViGIR Lab, University of Missouri"
+license: MIT
+repository-code: "https://github.com/SMATousi/qagt-mlp"
+preferred-citation:
+  type: article
+  title: "QAGT-MLP: An Attention-Based Graph Transformer for Small and Large-Scale Quantum Error Mitigation"
+  authors:
+    - family-names: Tousi
+      given-names: Mohamad Ali
+      affiliation: "ViGIR Lab, University of Missouri"
+  year: 2026
+  notes: "Under review."

@@ -1,0 +1,18 @@
+This project is released under the MIT License (see LICENSE).
+
+It builds on, and in places derives from, the ML-QEM code released with
+
+    H. Liao, D. S. Wang, I. Sitdikov, C. Salcedo, A. Seif and Z. K. Minev,
+    "Machine learning for practical quantum error mitigation",
+    Nature Machine Intelligence 6, 1478-1486 (2024).
+    https://github.com/qiskit-community/blackwater
+
+which is distributed under the Apache License, Version 2.0. A copy of that
+licence is included as LICENSE-APACHE-2.0.
+
+Files in this repository that are derived from that work, and the nature of the
+modifications, are listed in THIRD_PARTY.md. Apache-2.0 Section 4 obligations
+(retention of notices and statement of changes) are met there.
+
+All datasets used in this work are the datasets published with the above paper.
+None of them are redistributed here; see data/README.md for how to obtain them.
